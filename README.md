@@ -1,6 +1,6 @@
-# Node-to-do-cicd
+# Node-to-do-CICD-DevOps-Project
 
-Run these commands:
+# Run these commands:
 
 
 `sudo apt install nodejs`
