@@ -42,9 +42,10 @@ test
 
 
 
-##💻 Author
+## Author
 
 **Irfan Ahmad**
-GitHub: https://github.com/Irfan-devops1
+
+GitHub: Irfan-devops1
 
 
