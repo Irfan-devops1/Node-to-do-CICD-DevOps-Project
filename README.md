@@ -23,51 +23,49 @@ An end-to-end DevOps project demonstrating automated build and deployment of a N
 
 # Node.js
 
-`sudo apt install nodejs`
+sudo apt install nodejs
 
 # npm
 
-`sudo apt install npm`
+sudo apt install npm
 
 # Install Project Dependencies
 
-`sudo npm install`
+sudo npm install
 
 # Run the Application Locally
 
- It Starts the Node.js To-Do application locally.
+node app.js
 
-`node app.js`
+Starts the Node.js To-Do application locally.
+
 
 ##  After Testing the Application Locally. Now deploy it to Kubernetes Cluster using CI/CD.
 
-##  Install java, Jenkins, Docker on Server
+⚙️ Automated CI/CD using Jenkins Pipeline
 
-##  Project Highlights
+🔗 Integrated GitHub with Jenkins
 
-##  Automated CI/CD using Jenkins Freestyle
+🐳 Built and pushed Docker images to Docker Hub
 
-##  Integrated GitHub with Jenkins
+☸️ Deployed the application on Kubernetes
 
-##  Built and pushed Docker images to Docker Hub
+📦 Managed Kubernetes workloads using Deployments, Pods, ReplicaSets and Services
 
-##  Deployed the application on Kubernetes
+🔄 Implemented 2-replica application deployment for availability
 
-##  Managed Kubernetes workloads using Deployments, Pods, ReplicaSets and Services
+📊 Implemented Prometheus monitoring
 
-##  Implemented 2-replica application deployment for availability
+📈 Visualized infrastructure metrics using Grafana
 
-##  Implemented Prometheus monitoring
+☁️ Built and tested the complete environment on AWS EC2
 
-##  Visualized infrastructure metrics using Grafana
+🐧 Performed deployment and administration using Linux/Ubuntu
 
-## Built and tested the complete environment on AWS EC2
+🔧 Used kubectl and Helm for Kubernetes management
 
-## Performed deployment and administration using Linux/Ubuntu
 
-## Used kubectl and Helm for Kubernetes management
-
-$$ Key Achievement
+## Key Achievement
 
 Successfully implemented an end-to-end DevOps pipeline that automates the journey from source code → container image → Kubernetes deployment → monitoring, demonstrating practical experience with modern CI/CD, containerization, orchestration, and observability.
 
