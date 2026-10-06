@@ -4,7 +4,7 @@ An end-to-end DevOps project demonstrating automated build and deployment of a N
 
 ## Project Architecture
 
-![Architecture Diagram](/Architecture.png)
+![Architecture Diagram](/architecture.png)
 
 ## Application Access Snap shot
 
