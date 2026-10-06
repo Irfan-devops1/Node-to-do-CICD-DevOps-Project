@@ -5,7 +5,7 @@ pipeline{
         stage("Code Clone"){
             steps{
                 echo "Code Clone Stage"
-                git url: "https://github.com/Irfan-devops1/Node-to-do-CICD-DevOps-Project.git", branch: "master"
+                git url: "https://github.com/Irfan-devops1/Node-to-do-CICD-DevOps-Project.git", branch: "main"
             }
         }
         stage("Code Build & Test"){
