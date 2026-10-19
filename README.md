@@ -1,6 +1,6 @@
 # Node-to-do-CICD-DevOps-Project
 # End-to-End DevOps Project | Jenkins CI/CD | GitHub Webhooks | Docker | Kubernetes | Prometheus | Grafana
-An end-to-end DevOps project demonstrating automated build and deployment of a Node.js To-Do-App using Jenkins Pipeline, GitHub Webhooks, Docker, Docker Hub and a kubernetes cluster. Prometheus and Grafana provide monitoring and visualization.
+An end-to-end DevOps project demonstrating automated build and deployment of a Node.js To-Do-App using Jenkins Pipeline, GitHub Webhooks, Docker, Docker Hub, Argo CD and a kubernetes cluster. Prometheus and Grafana provide monitoring and visualization.
 
 ## Project Architecture
 
